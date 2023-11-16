@@ -1,0 +1,38 @@
+
+
+.main{
+    width: 100vw;
+    height: 100vh;
+}
+.b-c{
+    display: flex;
+}
+.a{
+    width: 100vw;
+    height: 20vh;
+    background: gainsboro;
+    border: 3px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.b{
+    width: 80vw;
+    height: 80vh;
+    background: gainsboro;
+    border: 3px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.c{
+    width: 20vw;
+    height: 80vh;
+    background: gainsboro;
+    border: 3px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}

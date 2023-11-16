@@ -1,0 +1,23 @@
+@media screen  and (max-width: 400px){
+    .A{
+        width: 100vw;
+        height: 20vh;
+    }
+    .B{
+        width: 100vw;
+        height: 40vh;
+    }
+
+    .block {
+        width: 33.3333vw;
+        height: 20vh;
+    }
+    .F{
+        width: 100vw;
+        height: 20vh;
+    }
+    .flex {
+        display: flex;
+        flex-direction: column;
+    }
+}

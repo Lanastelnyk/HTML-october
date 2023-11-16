@@ -1,0 +1,47 @@
+.main{
+    width: 100vw;
+    height: 100vh;
+}
+.A{
+    width: 100vw;
+    height: 33vh;
+    background: gainsboro;
+    border: 3px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.B{
+    width: 80vw;
+    height: 33vh;
+    background: gainsboro;
+    border: 3px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.blocks{
+   display: flex;
+}
+.block{
+    width: 26.3vw;
+    height: 33vh;
+    background: gainsboro;
+    border: 3px solid white;
+    display: flex;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.F{
+    width: 20vw;
+    height: 66.6vh;
+    background: gainsboro;
+    border: 3px solid white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.flex{
+    display: flex;
+}
