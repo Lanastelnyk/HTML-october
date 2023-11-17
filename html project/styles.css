@@ -155,7 +155,7 @@ header{
 .number-1 a, .number-2 a,.number-3 a,.number-4 a{
     text-decoration: none;
 }
-.number-1 svg,.number-2 svg,.number-3 svg,.number-4 svg{
+.number-1 .svg,.number-2 .svg,.number-3 .svg,.number-4 .svg{
     width: 30px;
     height: 30px;
     margin-right: 20px;
